@@ -1,0 +1,15 @@
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\bin\Debug\net6.0\FilmoKlasesProjektas.exe
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\bin\Debug\net6.0\FilmoKlasesProjektas.deps.json
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\bin\Debug\net6.0\FilmoKlasesProjektas.runtimeconfig.json
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\bin\Debug\net6.0\FilmoKlasesProjektas.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\bin\Debug\net6.0\FilmoKlasesProjektas.pdb
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.csproj.AssemblyReference.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.AssemblyInfoInputs.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.AssemblyInfo.cs
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.csproj.CoreCompileInputs.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\refint\FilmoKlasesProjektas.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.pdb
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\FilmoKlasesProjektas.genruntimeconfig.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka9.klasiu-ir-objektu-kurimas\KlasiuProjektai\FilmoKlasesProjektas\obj\Debug\net6.0\ref\FilmoKlasesProjektas.dll
